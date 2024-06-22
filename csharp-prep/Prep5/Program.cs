@@ -4,7 +4,6 @@ class Program
 {
     static void Main()
     {
-        
         DisplayWelcome();
         string userName = PromptUserName();
         int favoriteNumber = PromptUserNumber();
